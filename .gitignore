@@ -1,0 +1,8 @@
+hf_downloader.exe
+*.exe
+build/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
